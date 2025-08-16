@@ -59,7 +59,6 @@ npm install
 node server.js
 ```
 
-Backend runs on http://localhost:5000.
 
 ### 3. Setup Frontend
 ```
@@ -67,7 +66,7 @@ cd frontend
 npm install
 npm start
 ```
-Frontend runs on http://localhost:3000.
+
 
 ### Usage
 
@@ -78,6 +77,25 @@ Select a topic to add a new coding challenge.
 View all challenges under each topic.
 
 Edit or delete challenges as needed.
+
+### OUTPUT:
+
+## Home
+<img width="1918" height="981" alt="image" src="https://github.com/user-attachments/assets/e6a25efd-d947-4cde-bd5a-d8c6ba663d36" />
+
+## Analytics
+<img width="1885" height="963" alt="image" src="https://github.com/user-attachments/assets/4b5ef8f3-922a-4279-848b-b764082c1167" />
+
+## Dashboard
+<img width="1902" height="913" alt="image" src="https://github.com/user-attachments/assets/da75b146-a9ac-4226-ab7b-e81feed9c350" />
+
+## Adding new challenge
+<img width="991" height="877" alt="image" src="https://github.com/user-attachments/assets/47d0c2f7-2ea6-4432-a493-49ba2565f38f" />
+
+
+
+
+
 
 
 
