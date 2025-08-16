@@ -52,21 +52,26 @@ Coding-Challenge-Tracker/
 ```bash
 git clone https://github.com/gpavana/Coding-Challenge-Tracker.git
 cd Coding-Challenge-Tracker
+```
 
-2. Setup Backend
+### 2. Setup Backend
+```
 cd backend
 npm install
 node server.js
+```
 
 Backend runs on http://localhost:5000.
 
-3. Setup Frontend
+### 3. Setup Frontend
+```
 cd frontend
 npm install
 npm start
+```
 Frontend runs on http://localhost:3000.
 
-Usage
+### Usage
 
 Open the application in a browser.
 
@@ -75,7 +80,7 @@ Select a topic to add a new coding challenge.
 View all challenges under each topic.
 
 Edit or delete challenges as needed.
-```
+
 
 
 
