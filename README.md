@@ -44,8 +44,6 @@ Coding-Challenge-Tracker/
 └── README.md
 
 
----
-
 ## Installation
 
 ### 1. Clone the repository
